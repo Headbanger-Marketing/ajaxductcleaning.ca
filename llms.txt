@@ -1,2 +1,25 @@
 # Ajax Duct Cleaning
-HVAC services in Ontario.
+
+> Ajax Duct Cleaning is a local HVAC company serving Ajax, Durham, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 619-3742  |  Email: contact@ajaxductcleaning.ca  |  Website: https://ajaxductcleaning.ca
+
+## Key pages
+
+- [Home](https://ajaxductcleaning.ca/): Ajax Duct Cleaning homepage with service overview and FAQ
+- [About](https://ajaxductcleaning.ca/about/): About the company and service area
+- [Contact](https://ajaxductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://ajaxductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Ajax, Ontario
+- [Dryer Vent Cleaning](https://ajaxductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Ajax, Ontario
+- [Furnace & AC Cleaning](https://ajaxductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Ajax, Ontario
+- [HRV & Ventilation Cleaning](https://ajaxductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Ajax, Ontario
+- [Duct Sanitizing & Deodorizing](https://ajaxductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Ajax, Ontario
+- [Duct Sealing & Repair](https://ajaxductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Ajax, Ontario
+- [Commercial Duct Cleaning](https://ajaxductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Ajax, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Ajax are answered on the homepage.
